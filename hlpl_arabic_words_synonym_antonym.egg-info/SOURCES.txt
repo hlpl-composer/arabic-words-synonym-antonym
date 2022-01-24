@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+hlpl_arabic_words_synonym_antonym/__init__.py
+hlpl_arabic_words_synonym_antonym/__main__.py
+hlpl_arabic_words_synonym_antonym/arabic_words_synonym_antonym.py
+hlpl_arabic_words_synonym_antonym/hlpl_arabic_words_synonym_antonym.db
+hlpl_arabic_words_synonym_antonym/setup.cfg
+hlpl_arabic_words_synonym_antonym.egg-info/PKG-INFO
+hlpl_arabic_words_synonym_antonym.egg-info/SOURCES.txt
+hlpl_arabic_words_synonym_antonym.egg-info/dependency_links.txt
+hlpl_arabic_words_synonym_antonym.egg-info/entry_points.txt
+hlpl_arabic_words_synonym_antonym.egg-info/top_level.txt

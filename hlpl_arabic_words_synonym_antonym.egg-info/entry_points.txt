@@ -1,0 +1,3 @@
+[console_scripts]
+hlpl_arabic_words_synonym_antonym = hlpl_arabic_words_synonym_antonym.__main__:main
+
