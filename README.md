@@ -1,4 +1,10 @@
 
+```
+--------------------------------------------------------------------------------------------
+Note. The zip file "hlpl_arabic_words_synonym_antonym.zip" must be extracted
+in "hlpl_arabic_words_synonym_antonym/" directory before running installation
+--------------------------------------------------------------------------------------------
+```
 # hlpl_arabic_words_synonym_antonym
 
 hlpl_arabic_words_synonym_antonym lists arabic words synonyms antonyms in a readable database python package 
